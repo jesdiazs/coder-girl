@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.menu{
+	margin-bottom: 0 !important;
+}
+.container-fluid{
+	background-image: url(../img/home.jpg);
+	padding: 150px 0px;
+
+}
+h1{
+	color: white;
+	text-align: center;
+}
+.homer{
+	color: black;
+	text-align: center;
+}
+
+.botonuno{
+	background-color: #005eff;
+	border: 1px solid #005eff;
+	color: white;
+}
+.documental{
+	background-color: red;
+	padding: 100px 0px;
+}
+h2{
+	color: gray;
+	text-align: center;
+}
+h3{
+	color:gray;
+}
+.textdocu{
+	color:gray;
+}
